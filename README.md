@@ -1,7 +1,7 @@
 ## Peggy DROUAULT
 
 Passionnée depuis toute petite (le collège) avec mes cours d'informatique et sa diquette 5.1, je n'ai jamais quitté cette petite boîte.
-
+J'ai ensuite continuer mes études générales, tout en restant 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
