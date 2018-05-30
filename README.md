@@ -1,8 +1,9 @@
 # Peggy DROUAULT
 
-<h1>Passionnée depuis toute petite (le collège) avec mes cours d'informatique et sa diquette 5.1, je n'ai jamais quitté cet engouement dans ce domaine, jusqu'à aller supplier mes parents d'avoir un ordinateur à la maison, qui ont bien sur abdiquer (mais parce que aussi ma mère reprenait les études et qu'elle en avait besoin, je me suis retouvée formatrice auprès de ma mère) 
-Bon, là, je m'arrête on s'éloigne un peu ! </1>
+Passionnée depuis toute petite (le collège) avec mes cours d'informatique et sa diquette 5.1, je n'ai jamais quitté cet engouement dans ce domaine, jusqu'à aller supplier mes parents d'avoir un ordinateur à la maison, qui ont bien sur abdiquer (mais parce que aussi ma mère reprenait les études et qu'elle en avait besoin, je me suis retouvée formatrice auprès de ma mère) 
+Bon, là, je m'arrête on s'éloigne un peu ! 
 
+<br>
 J'ai ensuite continuer mes études : BAC secrétariat (non, on ne rigole pas !), mais là, encore une fois, petite demande à mes parents pour changer de voix et me retrouver à l'aftec d'ORléans pour débuter un BAC MRBT (Maintenance des Réseaux Télématiques et Bureautiques - à l'époque).
 J'e n'ai pas continué mes études dans ce domaine par manque de confiance en moi à l'époque et manque de maturité, bien evidemment... et j'avais besoin de sous,ben oui ^^ 
 
