@@ -1,6 +1,6 @@
 ## Peggy DROUAULT
 
-You can use the [editor on GitHub](https://github.com/pepette37/Presentation_CEFIM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Passionnée depuis toute petite (le collège) avec mes cours d'informatique et sa diquette 5.1, je n'ai jamais quitté cette petite boîte.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
